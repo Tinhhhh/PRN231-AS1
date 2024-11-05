@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\silverjewelry_razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\silverjewelry_razorpage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|c:\\users\\tinh khung\\documents\\fptu\\fpt\\da_hoc\\term_08\\prn231\\prn231pe_fa23_vvt\\silverjewelry_razorpage\\pages\\silverjewelrypage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF901AE3-C46F-4277-A9FA-25ADCF9444CC}|SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj|solutionrelative:silverjewelry_razorpage\\pages\\silverjewelrypage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SilverJewelry_RazorPage",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\SilverJewelry_RazorPage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T15:25:14.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:54:43.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:52:57.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:52:46.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml.cs",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:48:47.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:47:29.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:47:27.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml.cs",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:42:05.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:42:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Delete.cshtml.cs",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Delete.cshtml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAkwG0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:33:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:21:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\TINH KHUNG\\Documents\\FPTU\\FPT\\Da_hoc\\Term_08\\PRN231\\PRN231PE_FA23_VVT\\SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml.cs",
+              "RelativeToolTip": "SilverJewelry_RazorPage\\Pages\\SilverJewelryPage\\Edit.cshtml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwDMAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:18:45.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SilverJewelry_VVT.props" />
+</Project>

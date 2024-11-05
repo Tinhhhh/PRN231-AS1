@@ -1,0 +1,6 @@
+@SilverJewelry_VVT_HostAddress = http://localhost:5056
+
+GET {{SilverJewelry_VVT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

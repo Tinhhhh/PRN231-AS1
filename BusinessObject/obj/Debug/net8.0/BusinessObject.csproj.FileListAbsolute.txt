@@ -1,0 +1,15 @@
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\bin\Debug\net8.0\BusinessObject.deps.json
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\bin\Debug\net8.0\BusinessObject.runtimeconfig.json
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\bin\Debug\net8.0\BusinessObject.dll
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\bin\Debug\net8.0\BusinessObject.pdb
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
+C:\Users\TINH KHUNG\Documents\FPTU\FPT\Da_hoc\Term_08\PRN231\PRN231PE_FA23_VVT\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
